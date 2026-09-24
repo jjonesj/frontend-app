@@ -14,6 +14,5 @@ Customer-facing web storefront for Acme Retail, built with React and TypeScript.
 - src/api — client for backend-api service
 
 ## Getting Started
-```bash
 npm install
 npm run dev
