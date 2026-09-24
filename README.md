@@ -12,6 +12,7 @@ Customer-facing web storefront for Acme Retail, built with React and TypeScript.
 - `src/components` — shared UI components
 - `src/pages` — route-level views (Home, Product, Checkout)
 - `src/api` — client for backend-api service
+- Adding loading skeleton UI for product grid while data fetches.
 
 ## Getting Started
 ```bash
